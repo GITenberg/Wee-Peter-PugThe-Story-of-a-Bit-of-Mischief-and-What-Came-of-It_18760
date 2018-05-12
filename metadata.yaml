@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8236'
     url: http://www.gutenberg.org/2009/agents/8236
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18760#Wee-Peter-PugThe-Story-of-a-Bit-of-Mischief-and-What-Came-of-It
 gutenberg_issued: '2006-07-05'
 gutenberg_type: Text
 identifiers:
