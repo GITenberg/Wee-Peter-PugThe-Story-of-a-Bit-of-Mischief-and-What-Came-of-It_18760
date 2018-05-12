@@ -1,0 +1,29 @@
+_repo: Wee-Peter-PugThe-Story-of-a-Bit-of-Mischief-and-What-Came-of-It_18760
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aris, Ernest A. (Ernest Alfred)
+    alias: Aris, Ernest Alfred
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '8236'
+    url: http://www.gutenberg.org/2009/agents/8236
+description: ''
+gutenberg_issued: '2006-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dogs -- Juvenile fiction'
+title: 'Wee Peter Pug
+
+  The Story of a Bit of Mischief and What Came of It'
+url: http://www.gutenberg.org/ebooks/18760
